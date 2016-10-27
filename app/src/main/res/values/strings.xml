@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MCPL</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="yesno">Select</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="bank">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+        <item>Option 5</item>
+        <item>Option 6</item>
+    </string-array>
+</resources>
